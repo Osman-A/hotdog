@@ -1,0 +1,50 @@
+.resize{
+	width:100%;
+	height: 10%;
+}
+
+.newcolor{
+	background-color: #f2f2f2;
+}
+
+.regcolor{
+	background-color: white;
+}
+
+.content{
+	padding-top: 60px;
+	padding-bottom: 60px;
+	display: block;
+	margin: auto;
+	
+}
+
+.wrapper {
+    text-align: center;
+    padding-bottom: 150px
+}
+
+.button {
+    position: center;
+}
+
+.row.no-gutter {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.row.no-gutter [class*='col-']:not(:first-child),
+.row.no-gutter [class*='col-']:not(:last-child) {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.remove-all-margin-padding{
+margin:0 ! important;
+padding:0 ! important;
+}
+
+.tab{
+	padding-left: 21%
+}
+
